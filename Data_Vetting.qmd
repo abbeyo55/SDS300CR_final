@@ -1,0 +1,18 @@
+---
+title: "Data_Vetting"
+author: "Abigail O'Meara, Julia Lewis-Borgia, Vanessa Pliego"
+format:
+  html:
+    embed-resources: true
+    toc: true
+  pdf:
+    toc: true
+    number-sections: true
+    colorlinks: true
+    self-contained: true
+editor: source
+editor_options: 
+  chunk_output_type: inline
+---
+
+## Data Vetting 04/05
